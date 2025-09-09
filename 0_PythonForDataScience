@@ -8,6 +8,31 @@
       "metadata": {
         "id": "hxUC-61TOuHj"
       }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "a = 1; b = 2\n",
+        "c = a + (b * b)\n",
+        "print(c)"
+      ],
+      "metadata": {
+        "id": "GEmgIC0iPLs6",
+        "outputId": "0f84bf6b-f021-4657-c43e-3db8a1253436",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "5\n"
+          ]
+        }
+      ]
     }
   ],
   "metadata": {
